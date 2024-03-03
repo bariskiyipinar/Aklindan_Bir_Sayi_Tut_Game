@@ -1,0 +1,2 @@
+# Aklindan_Bir_Sayi_Tut_Game
+Aklindan_Bir_Sayi_Tut_Game
